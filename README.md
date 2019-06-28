@@ -28,9 +28,9 @@ Numbered list:
   2. rinse
   3. repeat
 
-A [link](http://example.com).
+A [Markdown](https://vi.wikipedia.org/wiki/Markdown).
 
-![Image](Image_icon.png)
+![Image](https://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin:Markdown-mark.svg)
 
 > Markdown uses email-style > characters for blockquoting.
 
